@@ -4,7 +4,7 @@
   "author": "klaudito70",
   "repository": "klaudito70/dreamports",
   "branch": "feat/977-ghosts-n-goblins",
-  "commit": "7b5b24abc642157bade1916a91c16c8145a72003",
-  "made": "2026-11-07T20:15:56.238Z",
+  "commit": "ba3b717fa8a9052af7985137bdc3492369801ed5",
+  "made": "2026-11-07T20:25:42.425Z",
   "about": "The title screen in C, with its logo, words, copyright, both scores and the sword, matching every frame."
 }
