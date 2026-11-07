@@ -4,7 +4,7 @@
   "author": "klaudito70",
   "repository": "klaudito70/dreamports",
   "branch": "feat/1005-game-start",
-  "commit": "b82d758abe548441ea8c380f58206b739c9eb372",
-  "made": "2026-11-07T20:37:58.018Z",
-  "about": "The game's start, with the player select and the first stage still to port."
+  "commit": "63db2d4813fb81ab75a8a4ca00c56a137b639f11",
+  "made": "2026-11-07T20:57:29.077Z",
+  "about": "The game's start, with the black transition matched and the player select text still to port."
 }
