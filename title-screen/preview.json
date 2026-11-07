@@ -1,0 +1,10 @@
+{
+  "game": "ghosts-n-goblins/c",
+  "title": "Ghosts'n Goblins Dreamport in C",
+  "author": "klaudito70",
+  "repository": "klaudito70/dreamports",
+  "branch": "feat/977-ghosts-n-goblins",
+  "commit": "b533ba7c6b80bd83e57be087ab7673d18389a481",
+  "made": "2026-11-07T19:42:15.679Z",
+  "about": "The title screen in C, with its logo, words and copyright, and the black setup before it."
+}
